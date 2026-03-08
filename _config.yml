@@ -1,0 +1,35 @@
+# Jekyll 配置文件
+
+# 网站基本信息
+title: SkyMI Android 内核项目
+description: 为兼容 Android 设备提供优化、稳定且高性能的内核
+author: SkyMI Kernel Team
+url: https://k4-baby.github.io/SkyMI.github.io
+repository: K4-bAbY/SkyMI.github.io
+
+# 主题设置
+theme: jekyll-theme-minimal
+
+# 插件
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# 输出设置
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# 导航菜单
+header_pages:
+  - index.md
+  - CONTRIBUTING.md
+  - CHANGELOG.md
+
+# 语言设置
+lang: zh-CN
+
+# 其他设置
+show_downloads: true
+github_username: K4-bAbY
