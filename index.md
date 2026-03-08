@@ -18,6 +18,7 @@ SkyMI 内核基于 Linux LTS 内核，集成了多项性能优化、功耗管理
 | [常见问题](#常见问题) | 获取常见问题的解答 |
 | [贡献指南](CONTRIBUTING.md) | 参与项目开发 |
 | [变更日志](CHANGELOG.md) | 查看版本更新历史 |
+| [English Version](index_en.md) | Switch to English version |
 
 ---
 
